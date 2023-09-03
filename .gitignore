@@ -1,0 +1,7 @@
+venv
+build
+.vscode
+dist
+analyzer.spec
+monitor.spec
+system_metrics.db
